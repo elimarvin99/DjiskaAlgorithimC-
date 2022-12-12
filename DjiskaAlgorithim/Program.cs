@@ -48,16 +48,17 @@ namespace DjiskaAlgorithim
                 {
                     if (!visitedNodes.Contains(connectedNode.Name))
                     {
-                        var index = distanceList.FindIndex((d) => d.Name == connectedNode.Name);
-                        var newNodeDistance = connectedNode.Distance + distanceList[index].Distance;
+                        var currentNodeIndex = distanceList.FindIndex((d) => d.Name == currentNode.Name);
+                        var connectedNodeIndex = distanceList.FindIndex((d) => d.Name == connectedNode.Name);
+                        var newNodeDistance = connectedNode.Distance + distanceList[currentNodeIndex].Distance;
 
-                        if (distanceList[index].Distance == 0)
+                        if (distanceList[connectedNodeIndex].Distance == 0)
                         {
-                            distanceList[index].Distance = newNodeDistance;
+                            distanceList[connectedNodeIndex].Distance = newNodeDistance;
                         }
-                        else if (distanceList[index].Distance > newNodeDistance)
+                        else if (distanceList[connectedNodeIndex].Distance > newNodeDistance)
                         {
-                            distanceList[index].Distance = newNodeDistance;
+                            distanceList[connectedNodeIndex].Distance = newNodeDistance;
                         }
                     }
                 }
