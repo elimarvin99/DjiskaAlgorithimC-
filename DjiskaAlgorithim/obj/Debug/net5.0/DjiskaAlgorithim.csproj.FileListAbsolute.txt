@@ -1,0 +1,16 @@
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.exe
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.deps.json
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.runtimeconfig.json
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.runtimeconfig.dev.json
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\bin\Debug\net5.0\DjiskaAlgorithim.pdb
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\refint\DjiskaAlgorithim.dll
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.pdb
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\DjiskaAlgorithim.genruntimeconfig.cache
+C:\Users\EliMarvin\Repos\DjiskaAlgorithim\DjiskaAlgorithim\obj\Debug\net5.0\ref\DjiskaAlgorithim.dll
